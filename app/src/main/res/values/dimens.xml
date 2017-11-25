@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_value_main">10dp</dimen>
+    <dimen name="textDateSize">30dp</dimen>
+    <dimen name="padding_value_number">5dp</dimen>
+    <dimen name="textAlarmSize">50dp</dimen>
+</resources>
